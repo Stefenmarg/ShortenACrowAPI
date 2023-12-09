@@ -1,0 +1,25 @@
+{
+  "name": "sorten_a_crow_api",
+  "version": "1.0.0",
+  "description": "A URL shortening api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefenmarg/ShortenACrowAPI.git"
+  },
+  "keywords": [
+    "URL",
+    "Shortener",
+    "URL",
+    "API"
+  ],
+  "author": "Stefenmarg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefenmarg/ShortenACrowAPI/issues"
+  },
+  "homepage": "https://github.com/Stefenmarg/ShortenACrowAPI#readme"
+}
